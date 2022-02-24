@@ -27,14 +27,14 @@
 
 <br/>
 <p align="left">
-  <a href="https://arun.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=arun&show_icons=true&theme=omni&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=arun&theme=omni&hide_border=true" />
+  <a href="https://nafirdausy.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nafirdausy&show_icons=true&theme=omni&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nafirdausy&theme=omni&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![arun' Activity Graph](https://activity-graph.herokuapp.com/graph?username=arun&custom_title=arun's%20Contribution%20Graph&theme=omni&bg_color=191622&hide_border=true&line=e6dd79&point=d467a7)](https://arun.dev)
+[![arun' Activity Graph](https://activity-graph.herokuapp.com/graph?username=nafirdausy&custom_title=nafirdausy's%20Contribution%20Graph&theme=omni&bg_color=191622&hide_border=true&line=e6dd79&point=d467a7)](https://arun.dev)
 
 <p>
 <div align="center">
