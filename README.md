@@ -12,10 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/arun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arun" height="30" width="40" /></a>
-<a href="https://twitter.com/arun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arun" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/arun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arun" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nur-anisa-firdausy-undefined-a977a4228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun" height="30" width="40" /></a>
 <a href="https://instagram.com/anisa_firdausy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jxdhaa" height="30" width="40" /></a>
 </p>
 
@@ -52,8 +49,5 @@
 ## Get in Touch with Me
 
 <p align="center">
-  <a href="https://facebook.com/arun"><img src="https://img.shields.io/badge/-arun-660066?style=flat&logo=Facebook&logoColor=white"/></a>
-  <a href="mailto:arun@outlook.com"><img src="https://img.shields.io/badge/-may.arun@outlook.com-cc0099?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://instagram.com/arun"><img src="https://img.shields.io/badge/-@arun-a85488?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href="https://twitter.com/arun"><img src="https://img.shields.io/badge/-@arun-a85488?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
